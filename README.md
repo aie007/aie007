@@ -15,7 +15,7 @@
 </a>
 </p>
 <p align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aie007&theme=dark)](https://git.io/streak-stats)
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aie007&theme=dark"/>
 </p>
 
 
