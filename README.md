@@ -2,8 +2,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aieshah-nasir-906a94207/) ![Views](https://komarev.com/ghpvc/?username=aie007)
 
 - 🎓 I'm studying Computer Science and Engineering
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Artificial Intelligence
+- 💞️ I’m looking to collaborate on Machine Learning and Automation projects.
 - 📫 How to reach me: email at aieshah_nasir@hotmail.com
 
 ***
