@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @aie007
+# 👋 Hi, I’m Aieshah!
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aieshah-nasir-906a94207/) ![Views](https://komarev.com/ghpvc/?username=aie007)
 
 - 🎓 I'm studying Computer Science and Engineering
